@@ -146,19 +146,19 @@ As you might have noticed, up till now we didn't logged in to the [Azure Portal]
 
 When logged in to the portal, go to the automation account and click `Modules Gallery`.
 
-![Modules Gallery](http://www.svenvanrijen.nl/images/blog5-step8-01.jpg "Modules Gallery")
+![Modules Gallery](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/blog5-step8-01.jpg "Modules Gallery")
 
 Within the `Modules Gallery`, search for a module to install. In this example `xActiveDirectory`. Select the module, 
 
-![Select module to install](http://www.svenvanrijen.nl/images/blog5-step8-02.jpg "Select module to install")
+![Select module to install](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/blog5-step8-02.jpg "Select module to install")
 
 click `Import` 
 
-![Click Import](http://www.svenvanrijen.nl/images/blog5-step8-03.jpg "Click Import")
+![Click Import](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/blog5-step8-03.jpg "Click Import")
 
 and `OK`.
 
-![Click OK](http://www.svenvanrijen.nl/images/blog5-step8-04.jpg "Click OK")
+![Click OK](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/blog5-step8-04.jpg "Click OK")
 
 Repeat these steps for each of the (in this demo) six modules.
 
@@ -184,7 +184,7 @@ Now the config have to be compiled. In other words, a MOF file has to be created
 
 Please wait for all modules added in `Step 8` to be `Available`.
 
-![Available](http://www.svenvanrijen.nl/images/blog5-step10-01.jpg "Available")
+![Available](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/blog5-step10-01.jpg "Available")
 
 
 ```Powershell

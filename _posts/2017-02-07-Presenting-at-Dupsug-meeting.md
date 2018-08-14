@@ -7,7 +7,7 @@ author: Sven van Rijen
 Today I received the confirmation that Ralph and I will host a session at the 10th DuPSUG meeting on March 9th 2017!
 
 # Presenting at the 10th DupSUG meeting!
-![DupSUG logo](http://www.svenvanrijen.nl/images/DuPSUG.png)
+![DupSUG logo](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/DuPSUG.png)
 
 The title of the session will be:
 Keep up with NOW! Automate (re-)building your homelab – on steroids!

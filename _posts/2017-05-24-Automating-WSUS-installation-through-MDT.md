@@ -98,7 +98,7 @@ The script can also be found [here](https://github.com/svenvanrijen/HydrationKit
 
 After creating this script, add a new application to the Applications section in the Deployment Workbench tool.
 
-![Add application](/images/workbench_applications.png)
+![Add application](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/workbench_applications.png)
 
 - Right-click `Applications` and choose `New Application`. Use the following settings in the `New Application Wizard`:
     - Application with source files 
@@ -119,11 +119,11 @@ Based on the info above, we're able to customize the default WSUS01 task sequenc
 
 - Right-click the 'WSUS01 - Full Installation' task sequence, and click `Properties`.
 
-![WSUS01 - Full Installation task sequence](/images/workbench_ts_wsus01.png)
+![WSUS01 - Full Installation task sequence](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/workbench_ts_wsus01.png)
 
 - First, create a new group after the 'Install - SQL Server Management Studio' item. Name this group 'Install - WSUS'.
 
-![Add WSUS installation steps](/images/ts_wsus.png)
+![Add WSUS installation steps](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/ts_wsus.png)
 
 - Within this group, add a new `Roles` > `Install Roles and Features` task. Name this task 'Install - WSUS'.
 

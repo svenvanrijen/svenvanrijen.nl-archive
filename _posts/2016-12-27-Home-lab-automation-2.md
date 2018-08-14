@@ -12,7 +12,7 @@ Despite the fact [Ralph already gave an overview of the technical environment th
 
 -----
 So, what do you need to run this script?
-![Graphical overview script](http://www.svenvanrijen.nl/images/Script_overview.jpeg)
+![Graphical overview script](https://svenvanrijen.github.io/svenvanrijen.nl-archive/images/Script_overview.jpeg)
 
 First of all, hardware of course.  There are no real prerequisites regarding the hardware, although you must be able to run Hyper-V on it. Basically, this will come down to the system requirements of the Operating System you’re going to use. Also, the form factor of the device doesn’t matter at all. It’s all free to choose.
 My own experience is that a rather small configuration (8GB of RAM and a 250GB HDD) is sufficient to test the basic functionality of the script. As in creating the NATSwitch and one or two VM’s.
