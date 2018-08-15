@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome-to-the-archive-site
+title: Welcome to the archive!
 author: Sven van Rijen
 ---
 
@@ -10,6 +10,6 @@ On August 15th 2018, this site became the archive version of svenvanrijen.nl.
 
 Please go to www.svenvanrijen.nl for all new content.
 
-# Welcome-to-the-archive-site
+# Welcome to the archive!
 
 -----
